@@ -1,5 +1,5 @@
 # 문제 출처: https://www.acmicpc.net/problem/1193
-# 풀이: 2021.01.14
+# 풀이: 2021.01.13 ~ 2021.01.14
 
 import math
 nth = int(input())
