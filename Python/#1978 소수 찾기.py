@@ -1,4 +1,4 @@
-# 문제 출처: https://www.acmicpc.net/problem/10871
+# 문제 출처: https://www.acmicpc.net/problem/1978
 # 풀이: 2021.01.17
 
 N = int(input())
