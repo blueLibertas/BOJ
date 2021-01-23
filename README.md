@@ -43,3 +43,5 @@ www.acmicpc.net
 - 2021년 1월 23일
     >\#11653 소인수분해
 
+- 2021년 1월 24일
+    >\#1011 Fly me to the Alpha Centauri
