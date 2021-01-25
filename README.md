@@ -45,3 +45,9 @@ www.acmicpc.net
 
 - 2021년 1월 24일
     >\#1011 Fly me to the Alpha Centauri
+
+- 2021년 1월 25일
+    >\#2960 에라토스테네스의 체
+
+
+
