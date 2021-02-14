@@ -11,7 +11,9 @@ def find(letter):
 numbers = [int(x) for x in input().split()]
 numbers.sort()
 order = input()
-result = ''
 for i in range(3):
-    result += str(find(order[i]))+ " "
-print(result)
+    print(str(find(order[i])), end=" ")
+# result = ''
+# for i in range(3):
+#     result += str(find(order[i]))+ " "
+# print(result)
